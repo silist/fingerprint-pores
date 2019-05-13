@@ -5,6 +5,9 @@
 ### Introduction:
 Here is the jupyter codes of this project.
 
+**Result:**  
+!(image 1)[https://raw.githubusercontent.com/silist/fingerprint-pores/master/files/results/1.png]
+
 ---------
 
 ### Requirements:  
